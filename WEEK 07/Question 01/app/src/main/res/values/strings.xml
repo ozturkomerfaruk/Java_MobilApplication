@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">hafta10uyg</string>
+    <string name="name">Name</string>
+    <string name="delete">DELETE</string>
+    <string name="update">UPDATE</string>
+    <string name="add">ADD</string>
+    <string name="job">Job</string>
+    <string name="surname">Surname</string>
+    <string name="age">Age</string>
+</resources>
